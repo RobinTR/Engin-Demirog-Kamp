@@ -1,0 +1,15 @@
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\refint\ClassMetotDemo.dll
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\RobN\Desktop\C#\Vs\CampHomeworks\Day3\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll
